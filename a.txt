@@ -1,7 +1,5 @@
 teste
 entendendo o HEAD
-<<<<<<< HEAD
 esta linha modificada no master 
-=======
 esta linha foi modificada
->>>>>>> teste
+
